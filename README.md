@@ -26,7 +26,7 @@ complex systems understandable and usable.
 In the late 1990s, a professor once said, *"One day there will be data mining."*  
 He was right.
 
-📫 Connect with me on LinkedIn
+📫 Connect with me on LinkedIn: www.linkedin.com/in/susan-powis-med-294a06180
 <!--
 **nasus321/Nasus321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
