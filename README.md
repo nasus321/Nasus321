@@ -1,15 +1,15 @@
+]
 ## Hi, I'm Sue 👋
 
 I work at the intersection of technology, data, and people.
 
-I'm a Technical Writer in healthcare technology with a background in
-information systems, analytics, and compliance. I'm focused on making
+I'm a systems-oriented technical writer  who bridges documentation, data, cloud, and governance. I'm focused on making
 complex systems understandable and usable.
 
 ### What I'm Working On
 - Learning Python for data analysis and light automation
 - Building practical analytics and cloud projects (not algorithm marathons)
-- Studying cybersecurity fundamentals with an eye toward GRC
+- Deepening cybersecurity fundamentals with an eye toward GRC
 
 ### How I Think About Tech
 - Systems > snippets
@@ -19,11 +19,11 @@ complex systems understandable and usable.
 ### Tools & Topics
 - Python • SQL • Git/GitHub  
 - AWS (Cloud Practitioner level)  
-- Power BI • QuickSight • Excel  
-- Security+, HIPAA, NIST (learning & applying)
+- QuickSight • Excel  
+- Security+ concepts, HIPAA, NIST
 
 ### A Fun Fact
-In the late 1990s, a professor once said, *"One day there will be data mining."*  
+In the late 1990s, my professor once said, *"One day there will be data mining."*  
 He was right.
 
 📫 [Connect with me on LinkedIn] (www.linkedin.com/in/susan-powis-med-294a06180)
