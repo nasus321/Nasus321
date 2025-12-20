@@ -3,7 +3,7 @@
 I work at the intersection of technology, data, and people.
 
 I'm a Technical Writer in healthcare technology with a background in
-information systems, analytics, and compliance — focused on making
+information systems, analytics, and compliance. I'm focused on making
 complex systems understandable and usable.
 
 ### What I'm Working On
